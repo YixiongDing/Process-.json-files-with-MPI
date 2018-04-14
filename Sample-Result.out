@@ -1,0 +1,37 @@
+
+The total number of Instagram posts made in each grid box
+C2 : 174127 posts
+B2 : 22212 posts
+C3 : 18184 posts
+B3 : 6187 posts
+C4 : 4141 posts
+B1 : 3311 posts
+C5 : 2605 posts
+D3 : 2313 posts
+D4 : 1857 posts
+C1 : 1595 posts
+B4 : 1023 posts
+D5 : 783 posts
+A2 : 477 posts
+A3 : 467 posts
+A1 : 262 posts
+A4 : 131 posts
+
+The total number of Instagram posts made in each row
+C-Row : 200652 posts
+B-Row : 32733 posts
+D-Row : 4953 posts
+A-Row : 1337 posts
+
+The total number of Instagram posts made in each column
+Column 2 : 196816 posts
+Column 3 : 27151 posts
+Column 4 : 7152 posts
+Column 1 : 5168 posts
+Column 5 : 3388 posts
+
+Time used: 42.29
+
+real	0m42.644s
+user	2m14.884s
+sys	0m24.951s
