@@ -1,6 +1,7 @@
 ```
-Author: Yixiong Ding, The University of Melborune
-Date : 14.04.2018
+Yixiong Ding, <yixiongd@student.unimelb.edu.au>
+14 April, 2018
+The University of Melbourne 
 ```
 
 import json
