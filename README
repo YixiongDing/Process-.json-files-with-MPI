@@ -1,4 +1,5 @@
-Author: Yixiong Ding, The University of Melbourne 
+Author: Yixiong Ding <yixiongd@student.unimelb.edu.au>
 Date: 14 April, 2018 
+The University of Melbourne 
 
 High-performance computing (HPC) is any computer system whose architecture allows for above-average performance. This parallelized program leverages the University of Melbourne HPC facility SPARTAN. The primary function of the program is to search a large dataset of geocoded Instagram to identify Instagram hotspots around Melbourne areas.
